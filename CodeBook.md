@@ -1,11 +1,7 @@
----
-title: "CodeBook.md"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+"CodeBook.md"
+
+---
 
 This code book summarizes the variables, the data, and transformations/work that has been performed to clean up the original downloaded data.
 
