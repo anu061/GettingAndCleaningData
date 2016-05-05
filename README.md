@@ -1,5 +1,5 @@
 ###
-# GettingAndCleaningData Project - README
+# GettingAndCleaningData Project: README
 #
 ###
 
