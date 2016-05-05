@@ -1,7 +1,7 @@
 ######
 # Getting and Cleaning Data Course Project
 # 
-# Author: AK
+# Author: anu061 
 # 
 # The data linked to from the course website represent data collected from the 
 # accelerometers from the Samsung Galaxy S smartphone. 
