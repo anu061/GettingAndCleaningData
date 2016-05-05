@@ -1,8 +1,6 @@
 ###
 # GettingAndCleaningData Project - README
 #
-# Author: AK
-#
 ###
 
 This is a README file for the human activity recognition project, which is a part of the "Getting and Cleaning Data" course. 
